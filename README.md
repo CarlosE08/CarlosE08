@@ -22,9 +22,23 @@ I architect, automate, secure, and manage cloud environments across:
 - **🔷 Azure**: App Services, Azure SQL, Azure Functions, Key Vault, Azure DevOps, Azure AD, RBAC, Resource Manager
 - **🔵 GCP**: Compute Engine, Cloud Functions, Cloud SQL, Cloud Pub/Sub, IAM, VPC, Cloud Monitoring, Cloud Source Repositories
 
-🧑‍💼 **Cloud Console Mastery**: Proficient with the full administrative interfaces of AWS Console, Azure Portal, and Google Cloud Console.
+🧑‍💼 **Cloud Console Mastery**: Full administrative expertise across AWS Console, Azure Portal, and Google Cloud Console.
 
-🔐 **Cloud Security & IAM**: Skilled in managing user identities, service permissions, security policies, role-based access control (RBAC), multi-factor authentication, and key management across platforms.
+🔐 **Cloud Security & IAM**: Identity and access management, MFA, RBAC, security policies, secret rotation and auditability in multi-cloud environments.
+
+---
+
+## 🎓 AWS Certifications
+
+<p align="center">
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_512x512.1c841db6f2e543c219913dee1fe4087a.png" height="100" />
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.d1d8d19c2f1e682b9cc84c6f68c36ad0.png" height="100" />
+</p>
+
+<p align="center">
+  <strong>AWS Certified Cloud Practitioner</strong> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <strong>AWS Certified Solutions Architect – Associate</strong>
+</p>
 
 ---
 
@@ -63,14 +77,14 @@ I architect, automate, secure, and manage cloud environments across:
 
 ---
 
-## 📬 Let's Connect
+## 📫 Let’s Connect
 
-- 📧 Email: carlosescobar08@proton.me  
+- ✉️ carlos.escobar@inbest.cloud  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-roberto-escobar-ibarra-91646930b) <!-- Replace with your actual LinkedIn -->
-- 🎯 Currently preparing for **AWS Solutions Architect Associate (SAA-C03)**
+- 🎯 Continuing to learn and grow in cloud architecture, automation, and DevSecOps
 
 ---
 
 <p align="center">
-  Thanks for stopping by! 🙌 Feel free to explore my repos and reach out!
+  Thanks for visiting! 🚀 Feel free to check out my work and reach out.
 </p>
