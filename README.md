@@ -88,7 +88,7 @@ I architect, automate, secure, and manage cloud environments across:
 
 ## 📫 Let’s Connect
 
-- ✉️ carlos.escobar@inbest.cloud  
+- ✉️ carlosescobar08@proton.me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-roberto-escobar-ibarra-91646930b) <!-- Replace with your actual LinkedIn -->
 - 🎯 Continuing to learn and grow in cloud architecture, automation, and DevSecOps
 
