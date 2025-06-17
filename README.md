@@ -33,11 +33,17 @@ I architect, automate, secure, and manage cloud environments across:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Certified Cloud Practitioner" /><br/>
+      <a href="https://www.credly.com/badges/ce24663f-58fd-4fb9-ba05-bd620a15411f" target="_blank">
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Certified Cloud Practitioner" />
+      </a>
+      <br/>
       <strong>AWS Certified Cloud Practitioner</strong>
     </td>
     <td align="center" style="padding-left: 40px;">
-      <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect – Associate" /><br/>
+      <a href="https://www.credly.com/badges/34bb58e4-1151-4527-ac16-0adc3de3d35e" target="_blank">
+        <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect – Associate" />
+      </a>
+      <br/>
       <strong>AWS Certified Solutions Architect – Associate</strong>
     </td>
   </tr>
