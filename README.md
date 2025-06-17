@@ -28,7 +28,7 @@ I architect, automate, secure, and manage cloud environments across:
 
 ---
 
-## 🎓 AWS Certifications
+## 🎓 Certifications
 
 <table align="center">
   <tr>
