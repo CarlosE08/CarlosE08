@@ -30,15 +30,18 @@ I architect, automate, secure, and manage cloud environments across:
 
 ## 🎓 AWS Certifications
 
-<p align="center">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" />
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" />
-</p>
-
-<p align="center">
-  <strong>AWS Certified Cloud Practitioner</strong> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <strong>AWS Certified Solutions Architect – Associate</strong>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="100" alt="AWS Certified Cloud Practitioner" /><br/>
+      <strong>AWS Certified Cloud Practitioner</strong>
+    </td>
+    <td align="center" style="padding-left: 40px;">
+      <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="100" alt="AWS Certified Solutions Architect – Associate" /><br/>
+      <strong>AWS Certified Solutions Architect – Associate</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
