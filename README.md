@@ -86,6 +86,13 @@ I architect, automate, secure, and manage cloud environments across:
 
 ---
 
+## 📊 GitHub Stats:
+<p align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=CarlosE08&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</p>
+
+---
+
 ## 📫 Let’s Connect
 
 - ✉️ carlosescobar08@proton.me  
